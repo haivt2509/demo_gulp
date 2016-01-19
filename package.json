@@ -1,0 +1,24 @@
+{
+  "name": "demo_gulp",
+  "version": "1.0.0",
+  "description": "create test gulp version",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haivt2509/demo_gulp.git"
+  },
+  "author": "haivt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haivt2509/demo_gulp/issues"
+  },
+  "homepage": "https://github.com/haivt2509/demo_gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
